@@ -61,5 +61,36 @@ div.desc{
     padding:15px;
     text-align: center;
 }
+
+/*style for certification*/
+div.certification{
+    margin:5px;
+    border:1px solid #ccc;
+    float:left;
+    width:200px;
+}
+div.certification:hover{
+    border:1px solid #777;
+}
+div.certification img{
+    width:100%;
+    height:200px;
+}
+
+div.desc{
+    padding:15px;
+    text-align: center;
+}
+div#ccard{
+    margin:30% 30% 30% 30%;
+    width:300px;
+    height:80px;
+    border:1px solid darkblue;
+    border-radius:20px;
+    padding: 10px 10px 10px 10px;
+   
+}
+
+
     
 
